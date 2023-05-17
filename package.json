@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "earth2travis-blog",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Blog of earth2travis",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+Documentation of earth2travis"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "@earth2travis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/earth2travis/blog/issues/new/"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://blog.earth2travis.com/",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
-    "nextra-theme-docs": "latest",
+    "nextra-theme-blog": "^2.5.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
